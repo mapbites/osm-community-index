@@ -2,35 +2,36 @@
 [![npm version](https://badge.fury.io/js/osm-community-index.svg)](https://badge.fury.io/js/osm-community-index)
 [![](https://data.jsdelivr.com/v1/package/gh/osmlab/osm-community-index/badge?style=rounded)](https://www.jsdelivr.com/package/gh/osmlab/osm-community-index)
 
-# osm-community-index ("OCI")
+# geo-community-index ("GCI")
 
-💬 An index of community resources for OpenStreetMap.
+💬 An index of community resources for Geo related communities.
 
 * View the map of GEO communities: https://mapbites.github.io/geo-community-index/
 * 
-* Based on https://openstreetmap.community
-* Or search and filter the community resources: https://community.osm.be/
+* Based on resources filter from OSM https://openstreetmap.community and https://community.osm.be/
 
 
 ## What is it?
 
-This project is a list of resources for users of OpenStreetMap.
+This project is a list of resources for stakeholders of the geo community.
 
 "Resources" can be links to forums, meetups, Slack groups, IRC channels, mailing lists, and so on.
 Anything that mappers, especially beginners, might find interesting or helpful.
 
 
-## Browse the index
+## Browse the index (status: offline, under construction)
 
-* View the map of OpenStreetMap communities: <https://openstreetmap.community>
-* Or search and filter the community resources: <https://community.osm.be/>
+* View the map of geo communities: <https://geo.community> (status: offline, coming soon, Step 1)
+* Or search and filter the community resources: <https://community.geo.eu/> (status: offline, coming soon, Step 2)
+* Or connect OCI and GCI
 
+Example view of OCI (task: to 
 <img width="600px" alt="openstreetmap.community" src="https://raw.githubusercontent.com/osmlab/osm-community-index/main/docs/img/oci.png"/>
 
 
-## About the index
+## About the index (task: to fill up with documentation)
 
-See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for details.
+See [the project wiki](https://github.com/mapbites/geo-community-index/wiki) for details.
 
 
 ## Participate!
@@ -38,19 +39,16 @@ See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for d
 We're always looking for help!
 
 - Read [the Code of Conduct](CODE_OF_CONDUCT.md) and remember to be kind to one another.
-- See [the project wiki](https://github.com/osmlab/osm-community-index/wiki) for info about how to contribute to this index.
+- See [the project wiki](https://github.com/mapbites/geo-community-index/wiki) for info about how to contribute to this index.
 
 If you have any questions or want to reach out to a maintainer, ping
-[@bhousel][@bhousel] or [@aawiseman][@aawiseman] on:
-- [OpenStreetMap US Slack](https://slack.openstreetmap.us/) (`#general` channel)
+[@seandebasti][@seandebasti]] 
 
-[@bhousel]: https://github.com/bhousel
-[@aawiseman]: https://github.com/aawiseman
-
+[@bhousel]: https://github.com/seandebasti
 
 ## License
 
-**osm-community-index** is available under the [ISC License](https://opensource.org/licenses/ISC).
+**geo-community-index** is available under the [ISC License](https://opensource.org/licenses/ISC).
 See the [LICENSE.md](LICENSE.md) file for more details.
 
 This project also bundles some icons from [FontAwesome](https://fontawesome.com/).
