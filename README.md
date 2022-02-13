@@ -21,8 +21,8 @@ Anything that mappers, especially beginners, might find interesting or helpful.
 
 ## Browse the index (status: offline, under construction)
 
-* View the map of geo communities: <https://geo.community> (status: offline, coming soon, Step 1)
-* Or search and filter the community resources: <https://community.geo.eu/> (status: offline, coming soon, Step 2)
+* View the map of geo communities: <https://geoint.community> (status: offline, coming soon, Step 1)
+* Or search and filter the community resources: <https://viewer.geoint.community/> (status: offline, coming soon, Step 2)
 * Or connect OCI and GCI
 
 Example view of OCI (task: to 
