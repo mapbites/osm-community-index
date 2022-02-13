@@ -6,7 +6,7 @@
 
 💬 An index of community resources for Geo related communities.
 
-* View the map of GEO communities: https://mapbites.github.io/geo-community-index/
+* View the docu of GEO communities: https://mapbites.github.io/geo-community-index/
 * Based on resources filter from OSM https://openstreetmap.community and https://community.osm.be/
 
 
