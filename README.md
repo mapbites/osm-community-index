@@ -7,7 +7,6 @@
 💬 An index of community resources for Geo related communities.
 
 * View the map of GEO communities: https://mapbites.github.io/geo-community-index/
-* 
 * Based on resources filter from OSM https://openstreetmap.community and https://community.osm.be/
 
 
@@ -23,9 +22,10 @@ Anything that mappers, especially beginners, might find interesting or helpful.
 
 * View the map of geo communities: <https://geoint.community> (status: offline, coming soon, Step 1)
 * Or search and filter the community resources: <https://viewer.geoint.community/> (status: offline, coming soon, Step 2)
-* Or connect OCI and GCI
+* Or connect OCI and GCI (status: offline, coming soon, Step 3)
 
-Example view of OCI (task: to 
+*Example view of OCI (task: to update)
+
 <img width="600px" alt="openstreetmap.community" src="https://raw.githubusercontent.com/osmlab/osm-community-index/main/docs/img/oci.png"/>
 
 
